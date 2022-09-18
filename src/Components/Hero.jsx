@@ -7,7 +7,7 @@ function Hero() {
     <Box as="header" backgroundColor="#cdd5d7">
 
         {/* Navigation */}
-      <Box className="header">
+      <Box className="header" backgroundPosition={["center", "top", "top"]}>
         <SimpleGrid as="nav" columns={2} px={[1, 2, 7, 10]} py={4}>
           <Box p="2" ms={{ lg: "auto" }}>
             {/* Logo */}
