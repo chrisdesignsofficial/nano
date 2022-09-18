@@ -1,5 +1,5 @@
 ## OVERVIEW
-The site is hosted already in Netlify [Nano](https://nano.netlify.app/)
+The site is hosted already in Netlify [Nano](https://nanosite.netlify.app/)
 
 This project was done uisng react [React](https://reactjs.org/), and chakra ui [Chakra](https://chakra-ui.com/).
 
