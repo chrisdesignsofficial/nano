@@ -1,5 +1,5 @@
-## Reachakra-UI
-Reachakra Ui is a combination of react and chakra template for building of websites and applications
+## OVERVIEW
+The site is hosted alraedy in Netlify and the link is [Nano](https://nano.netlify.app/)
 
 This project was done uisng react [React](https://reactjs.org/), and chakra ui [Chakra](https://chakra-ui.com/).
 
